@@ -1,0 +1,18 @@
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\bin\Debug\Person Search.exe.config
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\bin\Debug\Person Search.exe
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\bin\Debug\Person Search.pdb
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\obj\Debug\Person Search.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\obj\Debug\Person_Search.Properties.Resources.resources
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\obj\Debug\Person Search.csproj.GenerateResource.cache
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\obj\Debug\Person Search.exe
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\obj\Debug\Person Search.pdb
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\obj\Debug\Person_Search.MainWindow.resources
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\bin\Debug\pa-Guru\Person Search.resources.dll
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\bin\Debug\ru\Person Search.resources.dll
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\obj\Debug\pa-Guru\Person Search.resources.dll
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\obj\Debug\ru\Person Search.resources.dll
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\obj\Debug\Person_Search.Forms.AddEntryWindow.resources
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\obj\Debug\Person_Search.Forms.FilterWindow.resources
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\obj\Debug\Person_Search.Forms.DeleteEntryWindow.resources
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\obj\Debug\Person_Search.Forms.DeleteEntryWindow.pa-Guru.resources
+C:\Users\Jack\Desktop\Технология разработки\8. Person Search\Person Search\Person Search\obj\Debug\Person_Search.Forms.DeleteEntryWindow.ru.resources
